@@ -11,7 +11,7 @@ function Page() {
                     <h1 className="text-3xl md:text-4xl font-medium mb-2">Get the header you needed for your awesome website.</h1>
                     <button className="bg-indigo-600 text-white py-2 px-6 rounded-full text-xl mt-6">Get Started</button>
                     <div className="mt-4">
-                        <Image src="//via.placeholder.com/1000x785/fff?text=iMac+Mockup" alt="mockup" className="d-block max-w-full rounded shadow-md" />
+                        <Image width={500} height={500} src="https://images.pexels.com/videos/30220213/pexels-photo-30220213.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="mockup" className="d-block max-w-full rounded shadow-md" />
                     </div>
                 </div>
 
