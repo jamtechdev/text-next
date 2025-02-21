@@ -1,4 +1,5 @@
 import { letLayout } from "@/layouts/reverse"
+import Link from "next/link";
 
 const Login = () => {
     return (
@@ -18,7 +19,7 @@ const Login = () => {
                             </div>
                             <button className="bg-indigo-500 hover:bg-green-700 text-white uppercase text-sm font-semibold px-4 py-2 rounded">Login</button>
                         </form>
-                        <a className="text-blue-700 text-center text-sm" href="/login">Forgot password?</a>
+                        <Link className="text-blue-700 text-center text-sm" href="/login">Forgot password?</Link>
                     </div>
                 </div>
             </div>

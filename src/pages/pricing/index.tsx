@@ -15,7 +15,7 @@ const Pricing = () => {
                             Pricing Options
                         </h2>
                         <p className="box-border mt-4 text-2xl leading-normal text-gray-900 border-solid">
-                            We've got a plan for companies of any size
+                            We&apos;ve got a plan for companies of any size
                         </p>
                     </div>
                     <div className="grid max-w-md mx-auto mt-6 overflow-hidden leading-7 text-gray-900 border border-b-4 border-gray-300 border-blue-600 rounded-xl md:max-w-lg lg:max-w-none sm:mt-10 lg:grid-cols-3">

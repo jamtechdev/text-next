@@ -1,11 +1,12 @@
 import { getLayout } from "@/layouts/default";
 import Link from "next/link";
+import Script from "next/script";
 
 const Service = () => {
     return (
         <>
             {/* tailwind css   */}
-            <script src="https://cdn.tailwindcss.com"></script>
+            <Script src="https://cdn.tailwindcss.com"></Script>
             
             <section className="service container mx-auto py-8 px-6 h-auto">
                 <div>

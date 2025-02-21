@@ -7,4 +7,5 @@ class Client {
     }
 }
 
-export default new Client();
+const apiClient = new Client();
+export default apiClient;
